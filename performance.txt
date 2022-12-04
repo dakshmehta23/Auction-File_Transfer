@@ -1,0 +1,30 @@
+Team Members: Ashvin Shivram Gaonkar (agaonka2@ncsu.edu)
+              Daksh Mehta (dmehta4@ncsu.edu)
+Date: 22 November 2022
+
+
+
+Number of Bytes:  11204 Bytes
+Packet-Loss Rate: 0.1
+TCT: 17.15 sec
+AT: 6530.87 bps
+
+Number of Bytes:  11204 Bytes
+Packet-Loss Rate: 0.2
+TCT: 33.36 sec
+AT: 3357.33 bps
+
+Number of Bytes:  11204 Bytes
+Packet-Loss Rate: 0.3
+TCT: 73.18 sec
+AT: 1530.66 bps
+
+Number of Bytes:  11204 Bytes
+Packet-Loss Rate: 0.4
+TCT: 105.52 sec
+AT: 1061.55 bps
+
+Number of Bytes:  11204 Bytes
+Packet-Loss Rate: 0.5
+TCT: 198.89 sec
+AT: 563.24 bps
